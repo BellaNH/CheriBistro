@@ -1,0 +1,82 @@
+{
+  "slug": "restaurant-slug",
+  "name": "Restaurant Name",
+  "brandSubtitle": "RESTAURANT & BISTRO",
+  "city": "City Name",
+  "promoText": "Livraison gratuite dès 50€ • -10% sur votre première commande en ligne",
+  "welcomeText": "Bienvenue",
+  "headline": "Bonne cuisine, bonne humeur",
+  "tagline": "Une cuisine authentique dans une ambiance chaleureuse. Produits frais, recettes maison, accueil convivial.",
+  "storyTitle": "Préparé avec passion, servi avec amour",
+  "storyText": "Notre restaurant vous accueille pour des moments gourmands autour de plats faits maison et de produits locaux.",
+  "accentColor": "#1f4d3a",
+  "accentSecondary": "#b8956b",
+  "logo": "/previews/restaurant-slug/logo.jpg",
+  "colors": {
+    "greenLight": "#89986E",
+    "greenDark": "#6F8B72",
+    "orange": "#F28528",
+    "orangeDeep": "#C13304",
+    "red": "#800001",
+    "copper": "#C97335",
+    "cream": "#FAF6F0",
+    "text": "#422119"
+  },
+  "heroImage": "/previews/restaurant-slug/hero.svg",
+  "features": [
+    { "label": "Produits frais", "icon": "🌿" },
+    { "label": "Recettes maison", "icon": "👨‍🍳" },
+    { "label": "Fait avec amour", "icon": "♥" }
+  ],
+  "menuItems": [
+    {
+      "name": "Entrée du chef",
+      "price": "12€",
+      "image": "/previews/restaurant-slug/item1.svg"
+    },
+    {
+      "name": "Plat signature",
+      "price": "18€",
+      "image": "/previews/restaurant-slug/item2.svg"
+    },
+    {
+      "name": "Dessert maison",
+      "price": "8€",
+      "image": "/previews/restaurant-slug/item3.svg"
+    }
+  ],
+  "chefSpecial": {
+    "name": "Plat du chef",
+    "description": "Notre spécialité du moment, préparée avec des ingrédients de saison.",
+    "price": "16,90€",
+    "image": "/previews/restaurant-slug/special.svg"
+  },
+  "testimonial": {
+    "quote": "Une adresse incontournable — service impeccable et plats délicieux à chaque visite.",
+    "author": "Marie Dupont",
+    "rating": 5,
+    "image": "/previews/restaurant-slug/avatar.svg"
+  },
+  "gallery": [
+    "/previews/restaurant-slug/gallery1.svg",
+    "/previews/restaurant-slug/gallery2.svg",
+    "/previews/restaurant-slug/gallery3.svg",
+    "/previews/restaurant-slug/gallery4.svg",
+    "/previews/restaurant-slug/gallery5.svg",
+    "/previews/restaurant-slug/gallery6.svg"
+  ],
+  "hours": [
+    { "days": "Lundi - Vendredi", "time": "12h - 14h30 · 19h - 22h30" },
+    { "days": "Samedi", "time": "12h - 23h" },
+    { "days": "Dimanche", "time": "12h - 15h" }
+  ],
+  "contact": {
+    "address": "12 rue Example, 75000 Ville",
+    "phone": "+33 1 23 45 67 89",
+    "email": "contact@restaurant.fr",
+    "website": "www.restaurant.fr"
+  },
+  "ctaText": "Réserver une table",
+  "orderCtaText": "Commander",
+  "contactEmail": "contact@restaurant.fr"
+}

@@ -1,0 +1,91 @@
+{
+  "slug": "cheribistro",
+  "name": "Chéri",
+  "brandSubtitle": "DE L'ORNE",
+  "city": "Gewan Island, Doha",
+  "logo": "/previews/cheribistro/logo.jpg",
+  "promoText": "Arabic fine dining · Gewan Island · Reserve your table · cheribistro.qa",
+  "welcomeText": "Welcome to Chéri",
+  "headline": "Good food, good mood",
+  "bio": "A new wave of fine dining on Gewan Island — timeless ambiance, bespoke flavor, and beachfront.",
+  "tagline": "A new wave of fine dining on Gewan Island — timeless ambiance, bespoke flavor, and beachfront dining with authentic Arabic cuisine.",
+  "storyTitle": "Crafted with passion, served with soul",
+  "storyText": "Chéri brings a new wave of fine dining to Gewan Island. Expect timeless ambiance, bespoke flavors, and a stunning beachfront setting — where authentic Arabic cuisine meets refined hospitality.",
+  "colors": {
+    "greenLight": "#79BF81",
+    "greenDark": "#79BF81",
+    "orange": "#FF7A20",
+    "orangeDeep": "#FF5500",
+    "red": "#800001",
+    "copper": "#FF9A3D",
+    "cream": "#FFFFFF",
+    "sandLight": "#FFF9F5",
+    "text": "#800001",
+    "footer": "#FF7A20"
+  },
+  "accentColor": "#1f4d3a ",
+  "accentSecondary": "#FF5500",
+  "heroImage": "/previews/cheribistro/hero.svg",
+  "features": [
+    { "label": "Fresh ingredients", "icon": "🌿" },
+    { "label": "Artisan recipes", "icon": "🍕" },
+    { "label": "Made with love", "icon": "♥" }
+  ],
+  "menuItems": [
+    {
+      "name": "بيتزا مارغريتا",
+      "nameEn": "Pizza Margherita",
+      "description": "Wood-fired pizza, fresh mozzarella & basil",
+      "price": "68 QAR",
+      "image": "/previews/cheribistro/item1.svg"
+    },
+    {
+      "name": "سلايدر اللحم بالجبن",
+      "nameEn": "Herb Roast Chicken",
+      "description": "Slow-roasted chicken with herbs and sides",
+      "price": "58 QAR",
+      "image": "/previews/cheribistro/item2.svg"
+    },
+    {
+      "name": "طبق المزة المشكّل",
+      "nameEn": "Crispy Pakoras",
+      "description": "Golden fritters with chutney and fresh herbs",
+      "price": "95 QAR",
+      "image": "/previews/cheribistro/item3.svg"
+    }
+  ],
+  "chefSpecial": {
+    "name": "كبسة",
+    "nameEn": "Kabsa",
+    "description": "Aromatic spiced rice with tender meat — a Gulf classic and Chéri signature.",
+    "price": "75 QAR",
+    "image": "/previews/cheribistro/special.svg"
+  },
+  "testimonial": {
+    "quote": "Chéri never disappoints! Impeccable service and delicious dishes every single visit.",
+    "author": "Khalid Al-Mansouri",
+    "rating": 5,
+    "image": ""
+  },
+  "gallery": [
+    "/previews/cheribistro/gallery1.svg",
+    "/previews/cheribistro/gallery2.svg",
+    "/previews/cheribistro/gallery3.svg",
+    "/previews/cheribistro/gallery4.svg",
+    "/previews/cheribistro/gallery5.svg",
+    "/previews/cheribistro/gallery6.svg"
+  ],
+  "hours": [
+    { "days": "Sunday - Wednesday", "time": "12pm - 11pm" },
+    { "days": "Thursday - Saturday", "time": "12pm - 12am" }
+  ],
+  "contact": {
+    "address": "Gewan Island, Doha, Qatar",
+    "phone": "+974 0000 0000",
+    "email": "hello@cheribistro.qa",
+    "website": "cheribistro.qa"
+  },
+  "ctaText": "Reserve a table",
+  "orderCtaText": "Order now",
+  "contactEmail": "hello@cheribistro.qa"
+}

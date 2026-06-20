@@ -1,0 +1,71 @@
+{
+  "slug": "le-petit-bistro",
+  "name": "Le Petit Bistro",
+  "brandSubtitle": "RESTAURANT FRANÇAIS",
+  "city": "Lyon",
+  "promoText": "Livraison gratuite dès 50€ • -10% sur votre première commande en ligne",
+  "welcomeText": "Bienvenue au Petit Bistro",
+  "headline": "Bonne cuisine, bonne humeur",
+  "tagline": "Cuisine française authentique dans une ambiance chaleureuse au cœur de Lyon. Produits locaux, recettes traditionnelles, accueil convivial.",
+  "storyTitle": "Préparé avec passion, servi avec amour",
+  "storyText": "Depuis notre ouverture, Le Petit Bistro célèbre la gastronomie lyonnaise avec des plats faits maison et une carte qui change au fil des saisons.",
+  "accentColor": "#1f4d3a",
+  "accentSecondary": "#b8956b",
+  "heroImage": "/previews/le-petit-bistro/hero.svg",
+  "features": [
+    { "label": "Produits frais", "icon": "🌿" },
+    { "label": "Recettes maison", "icon": "👨‍🍳" },
+    { "label": "Fait avec amour", "icon": "♥" }
+  ],
+  "menuItems": [
+    {
+      "name": "Burger maison",
+      "price": "12€",
+      "image": "/previews/le-petit-bistro/item1.svg"
+    },
+    {
+      "name": "Salade César",
+      "price": "9€",
+      "image": "/previews/le-petit-bistro/item2.svg"
+    },
+    {
+      "name": "Tarte du jour",
+      "price": "7€",
+      "image": "/previews/le-petit-bistro/item3.svg"
+    }
+  ],
+  "chefSpecial": {
+    "name": "Risotto aux champignons",
+    "description": "Risotto crémeux aux cèpes et parmesan affiné — la spécialité du chef.",
+    "price": "16,90€",
+    "image": "/previews/le-petit-bistro/special.svg"
+  },
+  "testimonial": {
+    "quote": "Le Petit Bistro ne déçoit jamais ! Service impeccable et plats délicieux à chaque visite.",
+    "author": "Sophie Martin",
+    "rating": 5,
+    "image": "/previews/le-petit-bistro/avatar.svg"
+  },
+  "gallery": [
+    "/previews/le-petit-bistro/gallery1.svg",
+    "/previews/le-petit-bistro/gallery2.svg",
+    "/previews/le-petit-bistro/gallery3.svg",
+    "/previews/le-petit-bistro/gallery4.svg",
+    "/previews/le-petit-bistro/gallery5.svg",
+    "/previews/le-petit-bistro/gallery6.svg"
+  ],
+  "hours": [
+    { "days": "Lundi - Vendredi", "time": "12h - 14h30 · 19h - 22h30" },
+    { "days": "Samedi", "time": "12h - 23h" },
+    { "days": "Dimanche", "time": "Fermé" }
+  ],
+  "contact": {
+    "address": "8 rue de la République, 69002 Lyon",
+    "phone": "+33 4 78 00 00 00",
+    "email": "contact@lepetitbistro.fr",
+    "website": "www.lepetitbistro.fr"
+  },
+  "ctaText": "Réserver une table",
+  "orderCtaText": "Commander",
+  "contactEmail": "contact@lepetitbistro.fr"
+}
